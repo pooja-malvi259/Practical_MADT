@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practical4</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="series_names">
+        <item>"Arrow"</item>
+        <item>"Breaking Bad"</item>
+        <item>"Game of Thrones"</item>
+        <item>"Mentalist"</item>
+        <item>"Quantico"</item>
+        <item>"Sherlock"</item>
+        <item>"One Tree Hill"</item>
+        <item>"Prison Break"</item>
+        <item>Vampire Diaries </item>
+    </string-array>
+    <string name="title_activity_adding_movies">AddingMovies</string>
+    <string name="title_activity_edit_name_dialog">EditNameDialog</string>
+</resources>
